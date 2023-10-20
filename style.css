@@ -1,0 +1,35 @@
+.special {
+    font-size: 70px;
+    text-align: center;
+}
+
+h1 {
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+img {
+    height: 500px;
+}
+
+p, a, li {
+    font-size: 24px;
+}
+
+a {
+    display: block;
+    margin-bottom: 50px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    text-align: center;
+}
+
